@@ -2,9 +2,9 @@
   "models": [
     {
       "id": "image_classifier",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://raw.githubusercontent.com/kunalparte/tanuh-ai-models/main/models/image_classifier.tflite",
-      "checksum": "73d4cbfa534d36e994d1e32f791ea09ff3731b9739fac5970d019f97980878f1"
+      "checksum": "9f3bc29e38e90842a852bfed957dbf5e36f2d97a91dd17736b1e5c0aca8d3303"
     }
   ]
 }
