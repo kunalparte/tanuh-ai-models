@@ -5,6 +5,12 @@
       "version": "1.0.1",
       "url": "https://raw.githubusercontent.com/kunalparte/tanuh-ai-models/main/models/image_classifier.tflite",
       "checksum": "9f3bc29e38e90842a852bfed957dbf5e36f2d97a91dd17736b1e5c0aca8d3303"
+    },
+    {
+      "id": "text_classifier",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/kunalparte/tanuh-ai-models/main/models/text_classifier.onnx",
+      "checksum": "0ce41a2af81a71712cbfcd84f8b0b583e7a345db14ce179905aa1ca02c992d4a"
     }
   ]
 }
